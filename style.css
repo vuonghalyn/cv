@@ -1,0 +1,19 @@
+body {
+  background-color: gainsboro;
+}
+
+h1 {
+  color: black;
+}
+
+p {
+  color: black;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: darkgrey;
+  border-width: 7px;
+  width: 4%;
+}

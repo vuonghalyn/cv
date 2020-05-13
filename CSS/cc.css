@@ -119,6 +119,9 @@
 	display:none;
 }
 
+.isobar .colorstripe {
+	background-color:#e24687;
+}
 
 .integrify .timeline {
 	opacity:0.3;

@@ -4,10 +4,6 @@
 }
 
 
-
-
-
-
 .cb {
 	clear:both;
 }
@@ -21,7 +17,7 @@
 
 .header {
 	height:360px;
-	background-image: url(../img/hello.jpg);
+	background-image: url(/hello.jpg);
 	background-position: center 88%;
 	background-size: cover;
 }

@@ -119,12 +119,6 @@
 	display:none;
 }
 
-.google .colorstripe {
-	background-image: url(../img/googlestripe.png);
-	background-position: center center;
-	background-size:cover;
-	background-repeat: no-repeat;
-}
 
 .integrify .timeline {
 	opacity:0.3;
